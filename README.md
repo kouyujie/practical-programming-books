@@ -1,9 +1,9 @@
 
-# 计算机相关技术资料整理 
+# 开发相关技术资料整理 
 
 ----------
 
-这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
+这里从ElecBoy那里Fork过来的收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
 
 * [程序员必读书籍](http://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
 
