@@ -1,0 +1,4 @@
+首先从windows里，拷贝一个中文字体的文件到zabbix的服务器的/usr/share/zabbix/fonts文件夹里，比如我先择了“楷体”，这个文件叫simkai.ttf，#chmod 777 simkai.ttf 
+然后#vim /usr/share/zabbix/include/defines.inc.php，修改两处地方
+fontpath
+fontname
